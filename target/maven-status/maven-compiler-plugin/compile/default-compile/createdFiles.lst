@@ -1,0 +1,5 @@
+com/kelp/kelpbackend/LocationController.class
+com/kelp/kelpbackend/LocationRepository.class
+com/kelp/kelpbackend/Location.class
+com/kelp/kelpbackend/LoadDatabase.class
+com/kelp/kelpbackend/KelpBackendApplication.class
